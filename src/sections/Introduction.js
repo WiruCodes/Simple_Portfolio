@@ -127,7 +127,7 @@ function Introduction({ delayOnLoad }) {
             </Button>
           </Tooltip>
           <Tooltip label="Download My Resume" placement="top-start" hasArrow>
-            <a href="/Wilmer_Ting_Web_Developer_Resume.pdf" download>
+            <a href="Wilmer_Ting_Web_Developer_Resume.pdf" download>
               <Button colorScheme="orange">
                 <MdDriveFolderUpload color="black" size={30} />
               </Button>
