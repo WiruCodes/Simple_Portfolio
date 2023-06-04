@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abd64e84.css",
+    "main.js": "/static/js/main.83f49298.js",
+    "static/media/creative-developer.jpg": "/static/media/creative-developer.faa792c951eaa6e61319.jpg",
+    "static/media/fullstack-engineer.jpg": "/static/media/fullstack-engineer.d97e978bdde700c122a7.jpg",
+    "static/media/coding-tutor.jpg": "/static/media/coding-tutor.251ff8ec44b45294c4c2.jpg",
+    "static/media/KanjiTrainer.jpg": "/static/media/KanjiTrainer.86f1ecc935c5b8e35c72.jpg",
+    "static/media/PokerStudyNotes.jpg": "/static/media/PokerStudyNotes.3cf0b69135588e4136fe.jpg",
+    "index.html": "/index.html",
+    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
+    "main.83f49298.js.map": "/static/js/main.83f49298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.83f49298.js"
+  ]
+}
