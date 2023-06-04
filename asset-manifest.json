@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//wirucodes.github.io/Simple_Portfolio/static/css/main.abd64e84.css",
-    "main.js": "//wirucodes.github.io/Simple_Portfolio/static/js/main.4c46c043.js",
-    "static/media/creative-developer.jpg": "//wirucodes.github.io/Simple_Portfolio/static/media/creative-developer.faa792c951eaa6e61319.jpg",
-    "static/media/fullstack-engineer.jpg": "//wirucodes.github.io/Simple_Portfolio/static/media/fullstack-engineer.d97e978bdde700c122a7.jpg",
-    "static/media/coding-tutor.jpg": "//wirucodes.github.io/Simple_Portfolio/static/media/coding-tutor.251ff8ec44b45294c4c2.jpg",
-    "static/media/KanjiTrainer.jpg": "//wirucodes.github.io/Simple_Portfolio/static/media/KanjiTrainer.86f1ecc935c5b8e35c72.jpg",
-    "static/media/PokerStudyNotes.jpg": "//wirucodes.github.io/Simple_Portfolio/static/media/PokerStudyNotes.3cf0b69135588e4136fe.jpg",
-    "index.html": "//wirucodes.github.io/Simple_Portfolio/index.html",
-    "main.abd64e84.css.map": "//wirucodes.github.io/Simple_Portfolio/static/css/main.abd64e84.css.map",
-    "main.4c46c043.js.map": "//wirucodes.github.io/Simple_Portfolio/static/js/main.4c46c043.js.map"
+    "main.css": "/Simple_Portfolio/static/css/main.abd64e84.css",
+    "main.js": "/Simple_Portfolio/static/js/main.756c0283.js",
+    "static/media/creative-developer.jpg": "/Simple_Portfolio/static/media/creative-developer.faa792c951eaa6e61319.jpg",
+    "static/media/fullstack-engineer.jpg": "/Simple_Portfolio/static/media/fullstack-engineer.d97e978bdde700c122a7.jpg",
+    "static/media/coding-tutor.jpg": "/Simple_Portfolio/static/media/coding-tutor.251ff8ec44b45294c4c2.jpg",
+    "static/media/KanjiTrainer.jpg": "/Simple_Portfolio/static/media/KanjiTrainer.86f1ecc935c5b8e35c72.jpg",
+    "static/media/PokerStudyNotes.jpg": "/Simple_Portfolio/static/media/PokerStudyNotes.3cf0b69135588e4136fe.jpg",
+    "index.html": "/Simple_Portfolio/index.html",
+    "main.abd64e84.css.map": "/Simple_Portfolio/static/css/main.abd64e84.css.map",
+    "main.756c0283.js.map": "/Simple_Portfolio/static/js/main.756c0283.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.4c46c043.js"
+    "static/js/main.756c0283.js"
   ]
 }
