@@ -67,14 +67,14 @@ function Introduction({ delayOnLoad }) {
           mb={5}
           display="flex"
           justifyContent="center"
-          w="50%"
+          w={["80%", "80%", "80%", "50%"]}
         >
           <Alert
             position="fixed"
             mb={5}
             display="flex"
             justifyContent="center"
-            w="25%"
+            w={["80%", "80%", "40%", "25%"]}
             bottom="0"
             status="success"
             variant="solid"
